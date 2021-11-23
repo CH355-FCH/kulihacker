@@ -1,0 +1,39 @@
+{
+    "home": {
+        "theLogo": "img/LogoBanner.jpg",
+        "content": [
+            {
+              "headerContent": "Selamat datang di KuliCTF{capturethe_flag_challenge!}",
+              "cardTitle": "Apakah Ini?",
+              "textParagraf": "Games keren! Di sini kamu dapat bermain untuk bersenang - senang dan relaksasi disaat jenuh. Berpikir keras dan selesaikan tantangan. Soal yang diberikan cocok untuk kamu yang ingin belajar tentang Capture The Flag ini. Dan pastinya KHAS Indo bangettt..!"
+            },
+            {
+              "headerContent": "Pemberitahuan dan Peringatan",
+              "cardTitle": "Disclaimer",
+              "textParagraf": "Saya beserta jajaran Hacker Greenhat tidak bertanggungjawab atas perusakan yang Kamu lakukan setelah belajar dari sini.<br>Jika Kamu menemukan suatu celah keamanan di dalam website ini maka perlu diingat saya tidak membuka lowongan imbalan bug (Bug Bounty) berupa uang atau barang yang berharga. Jika ingin melaporkan maka wajah dan nama Kamu akan kami pajang sebagai Supported Person di website ini."
+            },
+            {
+              "headerContent": "Mulai mainkan games, dan bersenang-senang",
+              "cardTitle": "Tantangan Menarik",
+              "textParagraf": "Tantangan yang diberikan dari level dasar hingga ke level lanjutan membuat otak kita berpikir. Uji seberapa pengalaman Pentesting kamu dengan menggunakan eksploitasi lama hingga menemukan eksploit baru. Selesaikan misi dan lanjut menemukan hal baru. Bersenang - senang di dalamnya sangat asyik."
+            }
+          ]
+    },
+    "category": {
+        "web": [
+          ["The Amazing Spiderman","150"],
+          ["Guideline", "20"]
+        ]
+        
+    },
+    "challenges": {
+        "The Amazing Spiderman": {
+            "poin": "150",
+            "description": "Spiderman.. Spiderman.. Help the people oh spiderman!!!!",
+            "attach": "",
+            "link": [
+                "\/\/tmschall.herokuapp.com\/"
+            ]
+        }
+    }
+}
